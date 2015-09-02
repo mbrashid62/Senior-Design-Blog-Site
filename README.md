@@ -1,4 +1,4 @@
-## Getting Started
+## General
 A Senior Design Project Site. Built with the Bootstrap theme, Clean Blogger.
 
 ## Copyright and License
