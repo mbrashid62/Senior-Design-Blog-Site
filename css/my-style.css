@@ -1,0 +1,7 @@
+.img-post{
+    width: 300px;
+    height: 300px;
+    transform: rotate(90deg);
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
